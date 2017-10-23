@@ -44,10 +44,10 @@ import urllib.parse
 from os import environ as e
 
 t = twitter.Api(
-    consumer_key="RfHIDb86BE8rItVYFQB0zpFob",
-    consumer_secret="A8msFgkSKDyWCuKXuu0XrfVWq051MeeE2ghODNuS5HWi25u2hD",
-    access_token_key="824794440409706496-O0FA0PQVk5fBQMaz7vePyA7qVmjAK6t",
-    access_token_secret="GOLy8MKZi6qcKWs4hWL6W5pKP4MGoEGFth58J8eNSPsry",
+    consumer_key="",
+    consumer_secret="",
+    access_token_key="",
+    access_token_secret="",
     sleep_on_rate_limit=True
 )
 
